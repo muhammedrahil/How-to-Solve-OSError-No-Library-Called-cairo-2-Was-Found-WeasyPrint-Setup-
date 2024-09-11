@@ -68,3 +68,8 @@ Follow these steps to resolve the issue:
    python manage.py runserver
    ```
 
+
+## Additional Resources:
+- [StackOverflow Solution](https://stackoverflow.com/questions/59481394/django-oserror-no-library-called-cairo-was-found-on-windows)
+- [WeasyPrint Installation Guide](https://pypi.org/project/weasyprint/)
+- [YouTube Installation Guide for WeasyPrint](https://www.youtube.com/watch?v=l58EK6zfCJQ)
