@@ -13,3 +13,13 @@ Follow these steps to resolve the issue:
    ```bash
    python -m venv env
    ```
+
+2. **Activate the virtual environment**  
+   On Windows:
+   ```bash
+   env\Scripts\activate
+   ```
+   On macOS/Linux:
+   ```bash
+   source env/bin/activate
+   ```
