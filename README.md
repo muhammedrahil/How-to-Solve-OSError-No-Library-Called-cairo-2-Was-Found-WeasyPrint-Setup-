@@ -23,3 +23,11 @@ Follow these steps to resolve the issue:
    ```bash
    source env/bin/activate
    ```
+
+3. **Install WeasyPrint**  
+   Use pip to install WeasyPrint:
+   ```bash
+   pip install weasyprint
+   ```
+   You can check more about the installation and other details here:  
+   [WeasyPrint on PyPI](https://pypi.org/project/weasyprint/)
