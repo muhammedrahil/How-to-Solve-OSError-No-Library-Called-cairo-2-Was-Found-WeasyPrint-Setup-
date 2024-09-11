@@ -54,3 +54,11 @@ Follow these steps to resolve the issue:
 
 6. **Restart your computer**  
    This is an **important step** to ensure all changes take effect.
+
+   
+7. **Test WeasyPrint**  
+   Run the following command to test WeasyPrint:
+   ```bash
+   python -m weasyprint http://weasyprint.org weasyprint.pdf
+   ```
+
