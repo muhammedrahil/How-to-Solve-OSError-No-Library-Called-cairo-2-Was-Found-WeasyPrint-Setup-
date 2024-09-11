@@ -50,3 +50,7 @@ Follow these steps to resolve the issue:
    Download the latest version of the GTK3 Runtime for Windows from the following link:  
    [Download GTK3 Runtime](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases)  
    Choose and install the latest version (e.g., `gtk3-runtime-3.24.31-2022-01-04-ts-win64.exe`).
+
+
+6. **Restart your computer**  
+   This is an **important step** to ensure all changes take effect.
