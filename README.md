@@ -23,7 +23,6 @@ Follow these steps to resolve the issue:
    ```bash
    source env/bin/activate
    ```
-
 3. **Install WeasyPrint**  
    Use pip to install WeasyPrint:
    ```bash
@@ -31,3 +30,9 @@ Follow these steps to resolve the issue:
    ```
    You can check more about the installation and other details here:  
    [WeasyPrint on PyPI](https://pypi.org/project/weasyprint/)
+
+
+4. **Download and install the GTK3 Runtime for Windows**  
+   Download the latest version of the GTK3 Runtime for Windows from the following link:  
+   [Download GTK3 Runtime](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases)  
+   Choose and install the latest version (e.g., `gtk3-runtime-3.24.31-2022-01-04-ts-win64.exe`).
