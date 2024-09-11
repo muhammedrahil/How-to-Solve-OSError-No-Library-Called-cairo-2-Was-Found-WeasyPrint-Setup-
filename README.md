@@ -62,3 +62,9 @@ Follow these steps to resolve the issue:
    python -m weasyprint http://weasyprint.org weasyprint.pdf
    ```
 
+8. **Run your project**  
+   Now you can start your project:
+   ```bash
+   python manage.py runserver
+   ```
+
