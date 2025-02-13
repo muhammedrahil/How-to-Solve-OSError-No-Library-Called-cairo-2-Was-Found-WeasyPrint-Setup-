@@ -4,6 +4,8 @@
 ## Problem:
 Encountering the error: `OSError: no library called "cairo-2" was found` while trying to use **WeasyPrint** in a Python project.
 
+![image](https://github.com/user-attachments/assets/df6954e4-75e6-40df-bc57-517b87101952)
+
 ## Solution:
 
 Follow these steps to resolve the issue:
